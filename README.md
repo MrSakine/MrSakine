@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fily Mohamed Sakine</h1>
 <h3 align="center">A passionate fullstack developer from Mali</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrsakine&label=Profile%20views&color=0e75b6&style=flat" alt="mrsakine" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrsakine" alt="mrsakine" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/fly3r6" target="blank"><img src="https://img.shields.io/twitter/follow/fly3r6?logo=twitter&style=for-the-badge" alt="fly3r6" /></a> </p>
