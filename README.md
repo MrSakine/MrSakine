@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrsakine" alt="mrsakine" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mr_sakine" target="blank"><img src="https://img.shields.io/twitter/follow/fly3r6?logo=twitter&style=for-the-badge" alt="fly3r6" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mr_sakine" target="blank"><img src="https://img.shields.io/twitter/follow/fly3r6?logo=twitter&style=for-the-badge" alt="MrSakine" /></a> </p>
 
 - 💬 Ask me about **angular, vue, flutter and spring boot**
 
