@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fily Mohamed Sakine</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrsakine" alt="mrsakine" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mr_sakine" target="blank"><img src="https://img.shields.io/twitter/follow/mr_sakine?logo=twitter&style=for-the-badge" alt="MrSakine" /></a> </p>
-
-- 💬 Ask me about **angular, vue, flutter and spring boot**
+Specialized in developing mobile, web, and API solutions with a strong focus on creating user-centered software experiences and driving innovation. Skilled in Java/Kotlin,
+Python, Dart/Flutter and JavaScript/TypeScript, with over two years of experience in full-stack development across diverse platforms and technologies
 
 - 📫 How to reach me **msakine20@gmail.com**
 
