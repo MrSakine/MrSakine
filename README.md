@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Mobile+%26+Web+Specialist;API+Architecture+Expert;2%2B+Years+of+Experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Mobile+%26+Web+Specialist;API+Architecture+Expert;3%2B+Years+of+Experience)](https://git.io/typing-svg)
 
 </div>
 
@@ -143,7 +143,7 @@ A robust e-commerce backend system with comprehensive order management, notifica
 
 ## 💡 Experience Highlights
 
-- ⚡ **2+ years** of professional full-stack development experience
+- ⚡ **3+ years** of professional full-stack development experience
 - 🚀 Delivered multiple production applications across **mobile, web, and API** platforms
 - 🏗️ Architected scalable solutions handling **real-time transactions** and **blockchain integrations**
 - 💱 Built fintech applications with **payment processing**, **FX integration**, and **KYC verification**
